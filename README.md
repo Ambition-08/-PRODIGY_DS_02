@@ -12,7 +12,6 @@ This analysis uses the Titanic dataset, which contains information about passeng
 The project aims to:
 - Perform exploratory data analysis (EDA) to understand the distribution of key variables.
 - Visualize the relationships between different features.
-- Build predictive models to predict passenger survival based on these attributes.
 
 ## Dataset Description
 
